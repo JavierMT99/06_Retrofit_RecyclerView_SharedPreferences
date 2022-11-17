@@ -9,11 +9,27 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff330ce2-ef1f-42b4-bdb1-a8187d6ceabf" name="Changes" comment="Commit final" />
+    <list default="true" id="ff330ce2-ef1f-42b4-bdb1-a8187d6ceabf" name="Changes" comment="Commit final">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/org/iesch/a05_dashboard_menu/PizzaFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/org/iesch/a05_dashboard_menu/adaptadores/PizzaRecyclerViewAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/org/iesch/a05_dashboard_menu/api/PizzaAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/org/iesch/a05_dashboard_menu/models/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_pizza.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_pizza_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/iesch/a05_dashboard_menu/RestaurantsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/iesch/a05_dashboard_menu/RestaurantsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_restaurants.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_restaurants.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\JaviPC\.android\avd\Pixel_3a_API_33_x86_64.avd]" />
   <component name="ExternalProjectsData">
@@ -68,7 +84,7 @@
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../AppsMoviles/13_SharedPreferences_Login" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../AppsMoviles/12_Pokemon_Retrofit" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -92,6 +108,12 @@
     <key name="android.template.-1441602641">
       <recent name="org.iesch.a05_dashboard_menu" />
       <recent name="org.iesch.a05_dashboard_menu.splash" />
+    </key>
+    <key name="android.template.1131918970">
+      <recent name="org.iesch.a05_dashboard_menu" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.iesch.a05_dashboard_menu.api" />
     </key>
   </component>
   <component name="RunManager">

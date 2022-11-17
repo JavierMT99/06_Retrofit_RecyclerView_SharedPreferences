@@ -6,4 +6,16 @@
     android:layout_height="match_parent"
     tools:context=".RestaurantsActivity">
 
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmentContainerView"
+        android:name="org.iesch.a05_dashboard_menu.PizzaFragment"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout="@layout/fragment_pizza_list" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
